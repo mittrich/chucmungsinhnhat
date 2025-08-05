@@ -9,3 +9,6 @@ nguồn được sử dụng:
 AI Perplexity
 
 web: nhachayvn.net
+<h1>Update</h1>
+v1: web mặc định có nhạc, hiệu ứng pháo hoa (mặc dù sẽ làm lag máy để treo web)
+v2: thêm được 2 cái hình cái bánh sinh nhật và anh tùng trọc
