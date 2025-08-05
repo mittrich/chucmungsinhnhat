@@ -11,6 +11,7 @@ AI Perplexity
 web: nhachayvn.net
 <h1>Update</h1>
 v1: web mặc định có nhạc, hiệu ứng pháo hoa (mặc dù sẽ làm lag máy để treo web)
+
 v2:
 - mỗi chữ một màu juan lgbt
 - thêm được 2 cái hình cái bánh sinh nhật và anh tùng trọc
