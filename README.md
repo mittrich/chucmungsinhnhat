@@ -6,5 +6,6 @@ vkl chuc mung sinh nhat con mixue, chuc con hay an chong lon
 tôi không phải dev, chỉ là một thg dở hơi thích nghịch AI để cố tỏ ra ngầu lòi
 
 nguồn được sử dụng:
-AI
+AI Perplexity
+
 web: nhachayvn.net
