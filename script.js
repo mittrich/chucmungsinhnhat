@@ -101,7 +101,7 @@ function initFireworks() {
         const x = Math.random() * canvas.width * 0.8 + canvas.width*0.1;
         const y = Math.random() * canvas.height * 0.4 + canvas.height*0.1;
         explode(x, y);
-    }, 1100);
+    }, 200);
 
     // click để bắn pháo hoa tại điểm đó
     canvas.addEventListener('click', e=>{
