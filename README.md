@@ -19,3 +19,5 @@ v2:
 v3:
 - chỉnh tần suất pháo hoa nhiều hơn, ban tum lum ban tung toe
 - kiến thức mới: không nhất thiết thẻ audio phải là đuôi mp3, cứ lấy nguồn media trong network mà ra trang audio là auto xài được
+
+web ngrok: https://willingly-tight-fowl.ngrok-free.app/
