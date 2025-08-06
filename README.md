@@ -15,3 +15,7 @@ v1: web mặc định có nhạc, hiệu ứng pháo hoa (mặc dù sẽ làm la
 v2:
 - mỗi chữ một màu juan lgbt
 - thêm được 2 cái hình cái bánh sinh nhật và anh tùng trọc
+
+v3:
+- chỉnh tần suất pháo hoa nhiều hơn, ban tum lum ban tung toe
+- kiến thức mới: không nhất thiết thẻ audio phải là đuôi mp3, cứ lấy nguồn media trong network mà ra trang audio là auto xài được
