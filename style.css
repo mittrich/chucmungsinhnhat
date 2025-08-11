@@ -9,7 +9,7 @@ body {
 .center-content {
     position: absolute;
     z-index: 10;
-    top: -1vh;
+    top: -4vh;
     width: 100%;
     text-align: center;
     color: #be2edd;
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 3.5em;
     margin-bottom: 0.2em;
     letter-spacing: 2px;
     font-weight: bold;
@@ -43,4 +43,5 @@ canvas#fireworks {
     z-index: 1;
     pointer-events: none;
 }
+
 
